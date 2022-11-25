@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import { useState } from "react";
 import Axios from "axios";
 import './Form.css'
-import chart from '../assets/chart.png'
+import chart from '../assets/chart.png' 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCartShopping } from "@fortawesome/free-solid-svg-icons/faCartShopping";
 import BackToTop from "./backTotop";
